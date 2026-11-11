@@ -17,7 +17,7 @@
 <p align="center">
  <p align="center">
   <img src="./docs/images/homepage.png" alt="MonnWear Homepage" width="48%">
-  <img src="./docs/images/product-page.png" alt="MonnWear Product Page" width="48%">
+  <img src="./docs/images/products-page.png" alt="MonnWear Product Page" width="48%">
 </p>
 
 
