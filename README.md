@@ -15,8 +15,11 @@
 ## ✦ Overview
 
 <p align="center">
-  <img src="./docs/images/homepage.png" alt="MonnWear Homepage">
+ <p align="center">
+  <img src="./docs/images/homepage.png" alt="MonnWear Homepage" width="48%">
+  <img src="./docs/images/product-page.png" alt="MonnWear Product Page" width="48%">
 </p>
+
 
 > **MonnWear** is a minimalist streetwear e-commerce platform developed as a university project, combining a customer-facing storefront with a dedicated administration system.
 
